@@ -33,7 +33,7 @@
         "<br><table class='infoTable'>" +
         "<tbody><tr><td>Vaka Sayısı</td><td>" + feature.properties.vaka_sayisi + "</td></tr>"+
         "<tr><td>Ölü Sayısı</td><td>" + feature.properties.vefat_sayisi + "</td></tr>"+
-        "<tr><td>İyileşen Sayısı</td><td>" +feature.properties.iyilesen_sayisi + "</td></tr>"+
+        //"<tr><td>İyileşen Sayısı</td><td>" +feature.properties.iyilesen_sayisi + "</td></tr>"+
         "<tr><td>Yoğun Bakım Sayısı</td><td>" +feature.properties.guncelleme_tarihi + "</td></tr></tbody>"+
         "</b><br>", {
             maxWidth: "auto"
